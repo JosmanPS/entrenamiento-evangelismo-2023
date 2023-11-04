@@ -8,6 +8,7 @@
     <Quote />
     <Agenda />
     <Footer />
+    <Script src="https://js.churchcenter.com/modal/v1"></Script>
   </main>
 </template>
 
