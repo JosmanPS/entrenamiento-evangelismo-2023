@@ -1,6 +1,6 @@
 <template>
     <section class="py-12 bg-gradient-to-b from-orange-600 to-yellow-600">
-        <div class="container">
+        <div class="container mx-auto">
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <div v-for="feature in data" :key="feature.line1">
                     <div class="text-center flex flex-col justify-center items-center">
