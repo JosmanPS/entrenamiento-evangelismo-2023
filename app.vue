@@ -3,5 +3,6 @@
     <Hero />
     <InfoBanner />
     <About />
+    <BenefitsBanner />
   </main>
 </template>
