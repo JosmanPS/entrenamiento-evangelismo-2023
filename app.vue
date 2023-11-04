@@ -5,9 +5,8 @@
     <About />
     <BenefitsBanner />
     <Speaker />
-    <Agenda />
     <Quote />
-    <Register />
+    <Agenda />
     <Footer />
   </main>
 </template>

@@ -1,5 +1,5 @@
 <template>
-  <section class="pt-12 pb-24">
+  <section class="pt-24 pb-24">
     <div class="container mx-auto">
       <div class="text-center mb-12">
         <TypoSectionTitle>Agenda</TypoSectionTitle>
