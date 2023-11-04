@@ -4,5 +4,6 @@
     <InfoBanner />
     <About />
     <BenefitsBanner />
+    <Speaker />
   </main>
 </template>
