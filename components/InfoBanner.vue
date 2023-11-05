@@ -20,7 +20,7 @@ import { CalendarIcon, MapPinIcon, CreditCardIcon } from '@heroicons/vue/24/soli
 const data = [
     {
         icon: CalendarIcon,
-        line1: 'Sábado 11 de Noviembre',
+        line1: 'Sábado 18 de Noviembre',
         line2: '9:00 A.M.'
     },
     {
