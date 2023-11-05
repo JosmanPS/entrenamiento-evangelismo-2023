@@ -2,8 +2,8 @@
 import type { TypoSectionTitle } from '#build/components';
 <template>
   <section class="bg-black py-24">
-    <div class="container mx-auto">
-      <div class="flex flex-row gap-12">
+    <div class="container mx-auto px-4">
+      <div class="flex flex-col lg:flex-row gap-12">
         <div class="flex-1 min-w-[60%]">
           <TypoSectionTitle>
             Entrenamiento en el Evangelismo Práctico y Efectivo
