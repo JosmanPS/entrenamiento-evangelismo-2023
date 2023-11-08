@@ -9,14 +9,17 @@
           darte las instrucciones de pago y completar tu registro.
         </p>
       </div>
-      <div class="bg-neutral-800 max-w-2xl mx-auto py-12 px-8 rounded-lg">
+      <div class="bg-white max-w-2xl mx-auto py-8 px-2 rounded-lg">
         <iframe
-          src="https://rompiendofronteras.churchcenter.com/people/forms/630816"
+          src="https://docs.google.com/forms/d/e/1FAIpQLSf2uaErSyxcHE02FD3Bf5pSmyAXX2DHSGSNgMxdWjVpmjFS1A/viewform?embedded=true"
           width="100%"
-          height="500"
-        ></iframe>
+          height="1110"
+          frameborder="0"
+          marginheight="0"
+          marginwidth="0"
+          >Cargando…</iframe
+        >
       </div>
     </div>
-    <Script src="https://js.churchcenter.com/modal/v1"></Script>
   </section>
 </template>
