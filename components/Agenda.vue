@@ -6,7 +6,7 @@
       </div>
       <div class="bg-neutral-800 max-w-2xl mx-auto py-12 px-8 rounded-lg">
         <h3 class="text-white font-semibold font-condensed text-xl mb-6">
-          Sábado 11 de Noviembre
+          Sábado 18 de Noviembre
         </h3>
         <table class="text-primary w-full text-center rounded-xl">
           <thead>
